@@ -1,0 +1,50 @@
+
+.title {
+  font-family: "Dancing Script", serif;
+  color: pink;
+}
+
+
+#colorbar {
+  background-color: pink;
+  width: 100%;
+  height: 1px;
+}
+
+
+
+#skills {
+  list-style-type: square;
+}
+
+.column {
+  float left;
+
+}
+
+body{
+font-family: "Play fair", serif;
+font-size: 24 px;
+/*positon: fixed right; */
+body:0 px
+}
+
+
+h2 {
+  font-family:"Dancing Script", serif;
+}
+
+.column {
+float: left;
+}
+
+.columnleft {
+ width: 40%;
+
+
+}
+
+.columnright {
+  width: 40%
+
+}
