@@ -14,37 +14,69 @@
 
 
 #skills {
-  list-style-type: square;
+  list-style-type:none;
 }
 
-.column {
-  float left;
-
+.left {
+  float: left;
+  width:50%
 }
+
+  .right {
+    float:right;
+  width:50%
+
+
+  }
+
+#divider {
+  background-color: Pink;
+  width: 10%;
+  height: 10px;
+}
+
 
 body{
 font-family: "Play fair", serif;
-font-size: 24 px;
-/*positon: fixed right; */
-body:0 px
+font-size: 24px;
+
 }
 
 
 h2 {
   font-family:"Dancing Script", serif;
-}
-
-.column {
-float: left;
-}
-
-.columnleft {
- width: 40%;
-
 
 }
 
-.columnright {
-  width: 40%
+h3 {
+  text-decoration: underline;
+  color: grey;
+}
 
+
+a {
+  text-decoration: none;
+  color: grey;
+  font-style: italic;
+}
+
+a:hover {
+  color: pink;
+}
+
+
+
+
+.footer {
+  list-style-type: none;
+  text-align: center;
+  padding: 50px;
+  border: 10px solid grey;
+  color: pink;
+}
+
+
+#contact {
+
+list-style-type: none;
 }
