@@ -1,0 +1,48 @@
+
+#container {
+
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-gap: 20px;
+
+}
+
+
+.box {
+
+height: 100px;
+width: 200px;
+
+}
+
+.a
+{
+  background-color: pink;
+}
+
+.b
+{
+  background-color: white;
+  border: black 1 px;
+}
+
+.c
+{
+  background-color: black;
+
+}
+
+.d
+{
+  background-color: pink;
+}
+
+.e
+{
+  background-color: white;
+}
+
+.f
+{
+  background-color: black;
+}
