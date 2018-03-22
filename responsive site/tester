@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+
+<head>
+
+  <title> Beauty Blog </title>
+  <meta charset= "utf-8">
+  <meta name= "author" content="Jenna Kurz">
+  <meta name= "keywords" content="Beauty Blog">
+  <link href="css/style.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Playfair+Display" rel="stylesheet">
+</head>
+
+<h1>jenna's beauty blog</h1>
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home </a></li>
+      <li><a href="makeup.html">Makeup </a></li>
+      <li><a href="tutorials.html">Tutorials </a></li>
+
+    </ul>
+  </nav>
+
+  <div class="intro">
+    <p> Your favorite makeup looks all in one place! Whether your a beginner or beauty obsessed, there's a look for you.
+    Bronzed, smokey and colorful makeup looks for every Occassion and everybody. </p>
+  </div>
+</header>
+
+
+<body>
+
+<main>
+
+<div class="post">
+
+<img src= "images/makeup1.jpg" alt="photo of makeup"/>
+
+<p>
+This make up look is by @Amrezy. The ultra glam look is perfect for a night
+out. The intense smokey eye paired with the shimmering highlight, will amp up any
+night out look. The look also features the lilylashes in “So extra Miami”.
+<p>
+</div>
+
+
+<div class="post">
+
+<img src= "images/makeup2.jpg" alt="photo of makeup" />
+
+ <p>
+   This makeup look is by @brodiejenkins_mua. This look is perfect for a
+   special event.From prom to a red carpet look, the golden eyeshadow
+   and pale pink lip creates the perfect balance of high and low intensity.
+ </p>
+</div>
+
+
+<div class="post">
+
+<img src= "images/makeup3.jpg" alt="photo of makeup" />
+
+  <p>
+    This makeup look is by @cakefacerj. This gorgeous teal cut crease is not
+    for the faint at heart. The daring eyeshadow and lip will be sure to turn
+    heads.This look is perfect for a rave, concert or music festival. </p>
+</div>
