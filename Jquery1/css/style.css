@@ -1,0 +1,53 @@
+
+
+body
+{
+  font-family: 'Abril Fatface', cursive;
+}
+
+h1
+{
+
+font-size: 35px;
+text-decoration: underline;
+}
+
+h2
+
+{
+text-decoration: underline;
+font-size: 30px;
+font-family: 'Amatic SC', cursive;
+font-style: underline;
+}
+
+
+.steps
+{
+
+font-family: 'Amatic SC', cursive;
+
+}
+
+ol{
+
+font-family: 'Amatic SC', cursive;
+}
+
+ul{
+  font-family: 'Amatic SC', cursive;
+}
+
+p{
+
+font-size: 13px;
+}
+
+
+.image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
