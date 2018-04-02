@@ -10,6 +10,7 @@ h1
 
 font-size: 35px;
 text-decoration: underline;
+color: black;
 }
 
 h2
@@ -50,4 +51,19 @@ margin-left: auto;
 margin-right: auto;
 width: 50%;
 
+}
+.ingredients {
+  display:none;
+}
+
+#instructions {
+  display: none;
+}
+
+#finalcookies{
+  display: none;
+}
+
+#replacetext{
+  display: none;
 }
