@@ -55,6 +55,12 @@ $("#finalcookies").hover(function(){
 });
 
 
-$("#title").hover(function(){
-  $("#title").css("color", "brown");
+$("#replace").hover(function(){
+  $("#replace2").html("<p> Directions</p>");
 });
+});
+
+
+$("#title1").hover(function(){
+  $("h1").css("color", "brown");
+})
